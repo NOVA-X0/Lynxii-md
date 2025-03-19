@@ -175,4 +175,4 @@ async function Abhiy() {
 }
 setTimeout(() => {
   Abhiy();
-}, 8000);
+}, 4000);
